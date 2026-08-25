@@ -90,4 +90,4 @@ Level 2 Diploma in Digital and IT Skills (LeepTalent, 2026) · BSc Psychology
 ---
 
 📊 **Tableau Public:** <!-- paste link -->
-📫 **Email:** <!-- paste email -->
+💼 **LinkedIn:** <!-- paste your LinkedIn URL -->
