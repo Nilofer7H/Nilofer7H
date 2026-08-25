@@ -88,6 +88,5 @@ SQL and Power BI.
 Level 2 Diploma in Digital and IT Skills (LeepTalent, 2026) · BSc Psychology
 
 ---
-
-📊 **Tableau Public:** <!-- paste link -->
-💼 **LinkedIn:** <!-- paste your LinkedIn URL -->
+📊 [My Tableau Public portfolio](PASTE-LINK)
+💼 [LinkedIn](PASTE-LINK)
